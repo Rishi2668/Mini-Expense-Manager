@@ -1,0 +1,11 @@
+Date,Amount,VendorName,Description
+2026-03-01,220,Swiggy,Lunch order
+2026-03-02,180,Zomato,Dinner
+2026-03-03,250,Swiggy,Snacks
+2026-03-04,320,Uber,Ride to office
+2026-03-05,290,Ola,Ride home
+2026-03-06,1500,Swiggy,Party order (possible anomaly)
+2026-03-07,1200,Amazon,Electronics purchase
+2026-03-08,850,Flipkart,Clothing
+2026-03-09,210,Zomato,Breakfast
+2026-03-10,5000,Uber,Airport trip 
